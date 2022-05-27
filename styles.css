@@ -17,11 +17,10 @@ h1 {
   background-color: #E4F9F5;
   padding-top: 170px;
   position: relative;
-
 }
 
-.middle-container {
-}
+.middle-container {}
+
 .bottom-container {
   background-color: #60a396;
   padding-bottom: 1px;
@@ -60,4 +59,23 @@ h2 {
 
 h3 {
   color: #11999E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.rubik {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.yoyo {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
 }
