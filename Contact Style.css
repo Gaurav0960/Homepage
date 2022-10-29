@@ -1,5 +1,5 @@
 body {
-  color: #40514E;
+  background-color: #E4F9F5;
   margin: 0;
   text-align: center;
   position: relative;
@@ -47,4 +47,18 @@ hr {
   background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
+}
+
+.Message {
+  width: 300px;
+  height: 200px;
+  background-color: #E4F9F5;
+}
+
+.Name {
+  background-color: #E4F9F5;
+}
+
+.Gmail {
+  background-color: #E4F9F5;
 }
