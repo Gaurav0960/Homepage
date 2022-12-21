@@ -20,8 +20,6 @@ h1 {
   position: relative;
 }
 
-.middle-container {}
-
 .bottom-container {
   background-color: #60a396;
   padding-bottom: 1px;
@@ -55,7 +53,7 @@ hr {
 }
 
 h2 {
-  color: #66BFBF;
+  color: #40514E;
 }
 
 h3 {
@@ -106,4 +104,16 @@ h3 {
   background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
+}
+
+.dance {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.Sing {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
 }
