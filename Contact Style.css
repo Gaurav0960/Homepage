@@ -1,5 +1,5 @@
 body {
-  background-color: #E4F9F5;
+  background-color: #A555EC;
   margin: 0;
   text-align: center;
   position: relative;
@@ -7,27 +7,28 @@ body {
 }
 
 h1 {
-  font-size: 5.625rem;
+  font-size: 7rem;
   margin: 0px auto 0 auto;
+  margin-bottom: 0px;
+  color: #3F0071;
   font-family: 'Sacramento', cursive;
-  color: #66BFBF;
 }
 
 hr {
   border-style: none;
   border-top-style: dotted;
-  border-color: grey;
+  border-color: #3F0071;
   border-width: 5px;
   width: 50%;
 }
 
 .Submit {
-  background:  #11cdd4;
-  background-image: -webkit-linear-gradient(top,  #11cdd4, #11999e);
-  background-image: -moz-linear-gradient(top,  #11cdd4, #11999e);
-  background-image: -ms-linear-gradient(top,  #11cdd4, #11999e);
-  background-image: -o-linear-gradient(top,  #11cdd4, #11999e);
-  background-image: linear-gradient(to bottom,  #11cdd4, #11999e);
+  background-color: #A555EC;
+  background-image: -webkit-linear-gradient(top,  #A555EC, #FF78F0);
+  background-image: -moz-linear-gradient(top,  #A555EC, #FF78F0);
+  background-image: -ms-linear-gradient(top,  #A555EC, #FF78F0);
+  background-image: -o-linear-gradient(top,  #A555EC, #FF78F0);
+  background-image: linear-gradient(to bottom,  #A555EC, #FF78F0);
   -webkit-border-radius: 8;
   -moz-border-radius: 8;
   border-radius: 8px;
@@ -39,25 +40,25 @@ hr {
 }
 
 .Submit:hover {
-  background: #30e3cb;
-  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
-  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
-  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
-  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
-  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  background: #A555EC;
+  background-image: -webkit-linear-gradient(top, #A555EC, #541690);
+  background-image: -moz-linear-gradient(top, #A555EC, #541690);
+  background-image: -ms-linear-gradient(top, #A555EC, #541690);
+  background-image: -o-linear-gradient(top, #A555EC, #541690);
+  background-image: linear-gradient(to bottom, #A555EC, #541690);
   text-decoration: none;
 }
 
 .Message {
   width: 300px;
   height: 200px;
-  background-color: #E4F9F5;
+  background-color: #D09CFA;
 }
 
 .Name {
-  background-color: #E4F9F5;
+  background-color: #D09CFA;
 }
 
 .Gmail {
-  background-color: #E4F9F5;
+  background-color: #D09CFA;
 }
