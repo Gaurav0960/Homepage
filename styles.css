@@ -42,7 +42,7 @@ h1 {
 hr {
   border-style: none;
   border-top-style: dotted;
-  border-color: grey;
+  border-color: #3F0071;
   border-width: 5px;
   width: 50%;
 }
